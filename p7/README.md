@@ -5,7 +5,7 @@
 * Mar 7: for q2, there is a tie for highest wage.  Break the tie in favor of the first player, and only output that player's name.
 * Mar 11: for q20, the tests have been modified to accept either of two correct answers: Chilian Primera División OR Campeonato Brasileiro Série A
 
-## Intro
+## Introduction
 
 Let's Play Fifa18, Python style!  In this project, you will get more
 practice with lists and start using dictionaries.  Start by
